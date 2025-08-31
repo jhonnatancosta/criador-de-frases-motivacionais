@@ -39,14 +39,14 @@ header p {
     font-weight: 500;
     font-size: 14px;
     margin: 0 15px;
-    color: #fff;
+    color: #0ff50f;
     text-decoration: none;
     transition: color 0.3s;
     cursor: pointer;
 }
 
 .menu:hover {
-    color: #ffdf5d;
+    color: #2ce31b;
 }
 
 /* Botão */
@@ -57,17 +57,18 @@ header p {
     cursor: pointer;
     transition: 0.3s;
     border: none;
+    color: #0ff50f;
 }
 
 .btn--primary {
-    background: #93ff5d;
+    background: #52ec05;
     color: #333;
     font-weight: bold;
     margin-left: 15px;
 }
 
 .btn--primary:hover {
-    background: #41ff07;
+    background: #3df604;
     color: #111;
 }
 
